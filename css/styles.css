@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css?family=Bungee|Hind|PT+Sans|Pacifico|Poppins|Lobster|Audiowide|Great+Vibes|Comfortaa|Orbitron|Tajawal|Livvic|Fira+Sans|Unica+One|Rajdhani");
+
+*,
+*::before,
+*::after {
+ margin: 0;
+ padding: 0;
+ box-sizing: inherit;
+ font-size: 10px;
+}
+
+:root {
+ --great-vibes: 'Great Vibes', cursive;
+ --comfortaa: 'Comfortaa', cursive;
+ --orbitron: 'Orbitron', sans-serif;
+ --audiowide: 'Audiowide', cursive;
+ --rajdhani: 'Rajdhani', sans-serif;
+
+ --metal-sunburn: #A37C40;
+ --carmine-pink: #E54B4B;
+ --raisin-black: #1E1E24;
+ --rifle-green: #444140;
+ --rich-black: #07090F;
+ --cosmic-latte: #FFFCE8;
+ --tuscan-red: #6D454C;
+ --des-cyan: #658E9C;
+ --nav-purple: #4D5382;
+ --pinapple: #514663;
+ --old-gold: #B8B42D;
+ --olivine: #9DAD6F;
+ --quartz: #494850;
+	--gunmetal: #2C2C34;
+	--l-pastel-purple: #b18fcf;
+ --deep-taupe: #7D6D61;
+ --light-taupe: #AD8A64;
+ --black-coral: #5D5F71;
+ --charcoal: #2E4057;
+ --june-bud: #C0D461;
+ --reg-black: #0B0500;
+	--orange-soda: #FE5E41;
+	--key-lime: #D8F1A0;
+	--green-munsell: #00A878;
+	--jet: #2F2F2F rgba(47, 47, 47, 1);
+	--l-goldenrod-yellow: #F3F9D2;
+	--dark-sienna: #32161F;
+	--mellow-apricot: #F0B67F;
+	--sunset-orange: #FE5F55;
+	--cyan-azure: #4F7CAC rgba(79, 124, 172, 1);
+	--dark-gunmetal: #0D1F2D rgba(13, 31, 45, 1);
+ --caput-mortuum: #502419;
+ --harvest-gold: #E59500;
+ --burgundy: #840032;
+ --ube: #8789C0;
+ --maximum-green: #679436;
+	--limerick: #A5BE00;
+	--turquoise: #45F0DF;
+	--oxford-blue: #111D4A;
+ --dark-puce: #4A2040;
+ --sea-blue: #05668D;
+	--pearly-purple: #9F6BA0;
+	--mid-purple: #C880B7;
+	--classic-rose: #F5CCE8;
+	--black-olive: #393E41;
+	--meat-brown: #E2C044;
+	--wintergreen-dream: #587B7F;
+ --russian-green: #678D58;
+	--laurel-green: #A6C48A;
+	--m-aquamarine: #74D3AE;
+	--african-violet: #B288C0;
+	--d-lavender: #7E5A9B;
+	--cyber-grape: #63458A;
+ --dark-orchid: #9A48D0;
+	
+
+
+
+}
+
+
+
+
+html {
+ font-size: 1.6rem;
+ box-sizing: border-box;
+ background: var(--charcoal);
+}
+
