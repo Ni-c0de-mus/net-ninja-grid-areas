@@ -92,7 +92,8 @@ body {
 #content {
  display: grid;
  /*grid-template-columns: 30% 20% 50%;*/
- grid-template-columns: 1fr 1fr 1fr;
+ /*grid-template-columns: 1fr 1fr 1fr;*/
+ grid-template-columns: repeat(12, 1fr);
  max-width: 96rem;
  margin: 0 auto;
 }
